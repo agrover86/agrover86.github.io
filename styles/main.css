@@ -1,3 +1,11 @@
+ul li{
+  list-style-type: none;
+  display: inline-block;
+}
+
+ul li .links{
+  text-decoration: underline;
+}
 body {
   padding-bottom: 5rem;
 }
